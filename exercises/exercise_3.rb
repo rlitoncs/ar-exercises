@@ -7,6 +7,7 @@ puts "----------"
 
 # Your code goes here ...
 
+#Find Store and delete it
 @store3 = Store.find(3)
 @store3.destroy
 
